@@ -4,7 +4,7 @@ Revisões para a UFCD 10789 - Metodologias de Desenvolvimento de Software.
 Metodologias clássicas:
 Em cascata - Waterfall
 
-Metodologia Agile
+Metodologia Ágeis, Agil, Agile
 SCRUM
 KANBAN
 
@@ -18,10 +18,10 @@ Pytest (mais fácil de trabalhar)
 
 Para enviar para o servidor:
 1) Fazer um commit local:
-    git add.
+    git add .
     git commit -m "mensagem"
 2) Fazer um git push
 
 Do servidor (GITHUB) para o local:
-1) Alterar coisas no github
+1) Alterar coisas no github e fazer um commit
 2) No nosso pc, portanto no repositório local, fazer git pull
